@@ -1,0 +1,27 @@
+_repo: Against-the-CurrentSimple-Chapters-from-A-Complex-Life_41756
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41756-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Steiner, Edward Alfred
+    alias: Steiner, Edward A.
+    birthdate: 1866
+    deathdate: 1956
+    gutenberg_agent_id: '40878'
+    url: http://www.gutenberg.org/2009/agents/40878
+description: ''
+gutenberg_issued: '2013-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41756'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Steiner, Edward Alfred, 1866-1956'
+- !lcc 'CT'
+title: 'Against the Current: Simple Chapters from a Complex Life'
+url: http://www.gutenberg.org/ebooks/41756
